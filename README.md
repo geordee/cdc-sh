@@ -6,10 +6,10 @@ Use this as an inspiration to build something better.
 
 ## Usage
 
-Usage: cdc.sh <new-file> <old-file> <key-list>
-       <new-file>: File with new and updated records
-       <old-file>: File used as comparison, with the same structure as <new-file>
-       <key-list>: Comma-separated value for the positions of primary keys
+    Usage: cdc.sh <new-file> <old-file> <key-list>
+           <new-file>: File with new and updated records
+           <old-file>: File used as comparison, with the same structure as <new-file>
+           <key-list>: Comma-separated value for the positions of primary keys
 
 
 ## Configuration
