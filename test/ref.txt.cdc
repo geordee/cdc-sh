@@ -1,0 +1,15 @@
+Adams|Smith|28780|2015-02-25|I
+Amir|Ray|56429|2015-02-26|I
+Isaac|Watts|31476|2015-02-14|I
+May|Fourth|37984|2015-02-08|I
+Odysseus|Wilkerson|18518|2015-02-24|I
+Amir|Ray|56428|2015-02-26|D
+Bryan|Adams|28780|2015-02-25|D
+May|Espinoza|37984|2015-02-08|D
+Megan|Watts|31476|2015-02-14|D
+Odysseus|Wilkerson|18517|2015-02-24|D
+Aline|Armstrong|30647|2015-02-23|U
+Giselle|Hatfield|91938|2015-02-03|U
+Keane|Larson|12933|2015-02-05|U
+Kennedy|Massey|74146|2015-02-06|U
+Victoria|Newton|65956|2015-02-28|U
